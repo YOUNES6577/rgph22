@@ -1,0 +1,4 @@
+ServerSide/node_modules
+ClientSide/node_modules
+ServerSide/.pnpm-debug.log
+ClientSide/pnpm-lock.yaml

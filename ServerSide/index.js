@@ -1,0 +1,9 @@
+const express = require('express')
+const app = express()
+const cors = require('cors');
+const bodyParser = require('body-parser');
+const data = require('./ARData.json')
+const MongoClient = require('./dbconnection');
+// const mongo_express = require('mongo-express/lib/middleware')
+// const mongo_express_config = require('./mongo_express_config')
+// app.use('/mongo_express', ()=> (mongo_express()))

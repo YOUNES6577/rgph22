@@ -1,0 +1,394 @@
+[
+    {
+        "_id": "AC2601072",
+        "fullname": "Ferhate Iness ",
+        "phoneNumber": "0779117760",
+        "District": "072",
+        "Ilot": [
+            {
+                "Num": "0275",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "00",
+                        "Adresse": "حي الشهيد ...      المدية",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.2799923,2.760992,113m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601073",
+        "fullname": "BOUCHRITE Moufida",
+        "phoneNumber": null,
+        "District": "073",
+        "Ilot": [
+            {
+                "Num": "0274",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "0082",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "0080",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "0078",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "0070",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "0072",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "0074",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.279265,2.7612858,113m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601074",
+        "fullname": "Miroud Hadjer",
+        "phoneNumber": "0778986639",
+        "District": "074",
+        "Ilot": [
+            {
+                "Num": "0273",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "0060",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "0058",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "0056",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "0040",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "0042",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "0044",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "007",
+                        "GPS": "0001",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 3
+                    },
+                    {
+                        "NumOrdre": "008",
+                        "GPS": "0002",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 3
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.2783374,2.7619875,80m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601075",
+        "fullname": "Daoudi Hassiba",
+        "phoneNumber": "0777316095",
+        "District": "075",
+        "Ilot": [
+            {
+                "Num": "0276",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "0060",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "0058",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "0056",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "0040",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "0042",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "0044",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "007",
+                        "GPS": "0001",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "008",
+                        "GPS": "0002",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "009",
+                        "GPS": "0002",
+                        "Adresse": "حي الشهيد محمدتوزوت المدية",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.2800356,2.758198,117m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601076",
+        "fullname": "Toumi Aya Nada",
+        "phoneNumber": "0679681613",
+        "District": "076",
+        "Ilot": [
+            {
+                "Num": "0271",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "0055",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "0057",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "0059",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "0053",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1   
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "0051",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "0049",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "007",
+                        "GPS": "0001",
+                        "Adresse": "LSP عمارة",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "008",
+                        "GPS": "0002",
+                        "Adresse": "LSP عمارة",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.2798417,2.7594472,160m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601077",
+        "fullname": "Aggoun Nadir",
+        "phoneNumber": "0776092900",
+        "District": "077",
+        "Ilot": [
+            {
+                "Num": "0270",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1   
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.278954,2.7603021,135m/data=!3m1!1e3"
+            }
+        ]
+    },
+    {
+        "_id": "AC2601078",
+        "fullname": "Makhloufi Mohamed",
+        "phoneNumber": "0552573415",
+        "District": "078",
+        "Ilot": [
+            {
+                "Num": "0296",
+                "Constructions": [
+                    {
+                        "NumOrdre": "001",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "002",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "003",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "004",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1   
+                    },
+                    {
+                        "NumOrdre": "005",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    },
+                    {
+                        "NumOrdre": "006",
+                        "GPS": "00",
+                        "Adresse": "حي بزيوش المدية",
+                        "Type": 1
+                    }
+                ],
+                "map":"https://www.google.com/maps/@36.2780604,2.7605105,135m/data=!3m1!1e3"
+            }
+        ]
+    }
+]
